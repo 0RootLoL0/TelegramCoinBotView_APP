@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Telegram coin bot</string>
+    <string name="balance">balance:</string>
+    <string name="base_url">base url</string>
+    <string name="all_balance">all balance:</string>
+    <string name="to_rub">to rub:</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

@@ -1,0 +1,3 @@
+include ':JsonSimpleConverter'
+include ':app'
+rootProject.name = "Telegram coin bot"
